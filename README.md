@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Just another world
 current 
 strain
 maintain
